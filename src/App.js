@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 
 // Make sure you add an import for your card!
+import ArielleP from './components/ArielleP';
 import Tu from './components/Tu';
 import GaganBhatCard from './components/GaganBhatCard';
 import ACMCard from './components/ACMCard';
@@ -66,6 +67,7 @@ function App() {
       <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
 	    {/*Add your component above this comment to put it into the app!*/}
       <ACMCardRajmeet name="Rajmeet Juneja" email="rajmeet2001@gmail.com" phone="214-960-7915" address="800 West Campbell Road" website="www.rajmeetjuneja.com"/>
+      <ArielleP name="Arielle Posadas" email="arielle1901@gmail.com" phone="123-585-7670" address="Spring, TX" website="https://github.com/posadari"/>
       {/*Add your component above this comment to put it into the app!*/}
       </div>
     </div>
